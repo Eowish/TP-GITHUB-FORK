@@ -1,4 +1,4 @@
-gh # Rendu de DELPLA Merlin
+# Rendu de DELPLA Merlin
 
 Une capture par étape, dans l'ordre. Terminal entier non rogné, invite visible.
 Afficher l'historique en graphe quand c'est pertinent.
