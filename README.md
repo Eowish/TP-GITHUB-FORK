@@ -1,19 +1,20 @@
-# Rendu de <NOM Prénom>
+gh # Rendu de <DELPLA Merlin>
 
 Une capture par étape, dans l'ordre. Terminal entier non rogné, invite visible.
 Afficher l'historique en graphe quand c'est pertinent.
 
 ## Niveau 1
 1. Configuration Git
-(capture)
+![](screenshots/config-git.png)
 2. Branche de travail
-(capture)
+![](screenshots/branch.png)
 3. Historique des commits
-(capture)
+![](screenshots/historique-github.png)
+![](screenshots/historique-git.png)
 4. Pull Request
-(capture)
+![](screenshots/pull-request.png)
 5. Revue croisée
-(capture)
+![](screenshots/revue-croisee.png)
 
 ## Niveau 2
 6. Secret retiré du suivi
