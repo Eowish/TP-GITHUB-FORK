@@ -18,7 +18,7 @@ Afficher l'historique en graphe quand c'est pertinent.
 
 ## Niveau 2
 6. Secret retiré du suivi
-(capture)
+![](screenshots/secret-retire.png)
 7. Conflit résolu (marqueurs avant, graphe après)
 (capture)
 8. Revert du bandeau promo
