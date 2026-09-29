@@ -21,7 +21,9 @@ Afficher l'historique en graphe quand c'est pertinent.
 ![](screenshots/secret-retire.png)
 ![](screenshots/secret-retire-historique.png)
 7. Conflit résolu (marqueurs avant, graphe après)
-(capture)
+![](screenshots/creation-branche-a.png)
+![](screenshots/creation-branche-b.png)
+![](screenshots/resolution-conflit.png)
 8. Revert du bandeau promo
 (capture)
 9. Issue fermée par une Pull Request
