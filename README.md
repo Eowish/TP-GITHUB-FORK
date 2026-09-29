@@ -25,7 +25,7 @@ Afficher l'historique en graphe quand c'est pertinent.
 ![](screenshots/creation-branche-b.png)
 ![](screenshots/resolution-conflit.png)
 8. Revert du bandeau promo
-(capture)
+![](screenshots/revert-bandeau.png)
 9. Issue fermée par une Pull Request
 (capture)
 10. Protection de main et CI au vert
